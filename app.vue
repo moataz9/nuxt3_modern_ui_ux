@@ -14,7 +14,7 @@ useHead({
     <AppWhatGPT3 />
     <AppFeatures />
     <AppPossibility />
-    <!-- <AppCTA /> -->
+    <AppCTA />
     <!-- <AppBlog /> -->
     <!-- <AppFooter /> -->
   </div>
