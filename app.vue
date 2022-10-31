@@ -12,7 +12,7 @@ useHead({
     </div>
     <AppBrand />
     <AppWhatGPT3 />
-    <!-- <AppFeatures /> -->
+    <AppFeatures />
     <!-- <AppPossibilty /> -->
     <!-- <AppCTA /> -->
     <!-- <AppBlog /> -->
