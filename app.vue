@@ -10,8 +10,8 @@ useHead({
       <AppNavbar />
       <AppHeader />
     </div>
-    <!-- <AppBrand /> -->
-    <!-- <AppWhatGPT3 /> -->
+    <AppBrand />
+    <AppWhatGPT3 />
     <!-- <AppFeatures /> -->
     <!-- <AppPossibilty /> -->
     <!-- <AppCTA /> -->
