@@ -7,7 +7,7 @@ useHead({
 <template>
   <div class="App">
     <div class="gradient__bg">
-      <!-- <AppNavbar /> -->
+      <AppNavbar />
       <AppHeader />
     </div>
     <!-- <AppBrand /> -->
