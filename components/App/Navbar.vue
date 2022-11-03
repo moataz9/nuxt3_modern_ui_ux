@@ -7,7 +7,7 @@ const toggleMenu = ref(false)
     <div class="gpt3__navbar">
       <div class="gpt3__navbar-links">
         <div class="gpt3__navbar-links_logo">
-          <img src="~/assets/images/logo.png" />
+          <img src="/images/logo.png" />
         </div>
         <div class="gpt3__navbar-links_container">
           <p><a href="#home">Home</a></p>

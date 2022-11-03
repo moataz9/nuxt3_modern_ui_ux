@@ -15,8 +15,8 @@ useHead({
     <AppFeatures />
     <AppPossibility />
     <AppCTA />
-    <!-- <AppBlog /> -->
-    <!-- <AppFooter /> -->
+    <AppBlog />
+    <AppFooter />
   </div>
 </template>
 

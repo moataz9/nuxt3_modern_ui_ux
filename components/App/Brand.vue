@@ -3,19 +3,19 @@
 <template>
   <div class="gpt3__brand section__padding">
     <div>
-      <img src="~/assets/images/google.png" />
+      <img src="/images/google.png" />
     </div>
     <div>
-      <img src="~/assets/images/slack.png" />
+      <img src="/images/slack.png" />
     </div>
     <div>
-      <img src="~/assets/images/atlassian.png" />
+      <img src="/images/atlassian.png" />
     </div>
     <div>
-      <img src="~/assets/images/dropbox.png" />
+      <img src="/images/dropbox.png" />
     </div>
     <div>
-      <img src="~/assets/images/shopify.png" />
+      <img src="/images/shopify.png" />
     </div>
   </div>
 </template>

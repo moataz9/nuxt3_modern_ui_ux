@@ -16,13 +16,13 @@
       </div>
 
       <div class="gpt3__header-content__people">
-        <img src="~/assets/images/people.png" />
+        <img src="/images/people.png" />
         <p>1,600 people requested access a visit in last 24 hours</p>
       </div>
     </div>
 
     <div class="gpt3__header-image">
-      <img src="~/assets/images/ai.png" />
+      <img src="/images/ai.png" />
     </div>
   </div>
 </template>

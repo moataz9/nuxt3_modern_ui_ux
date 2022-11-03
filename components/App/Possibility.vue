@@ -3,7 +3,7 @@
 <template>
   <section class="gpt3__possibility section__padding" id="possibility">
     <div class="gpt3__possibility-image">
-      <img src="~/assets/images/possibility.png" alt="possibility" />
+      <img src="/images/possibility.png" alt="possibility" />
     </div>
     <div class="gpt3__possibility-content">
       <h4>Request Early Access to Get Started</h4>
