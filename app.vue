@@ -8,7 +8,7 @@ useHead({
   <div class="App">
     <div class="gradient__bg">
       <!-- <AppNavbar /> -->
-      <!-- <AppHeader /> -->
+      <AppHeader />
     </div>
     <!-- <AppBrand /> -->
     <!-- <AppWhatGPT3 /> -->
