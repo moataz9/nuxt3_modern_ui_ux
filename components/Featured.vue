@@ -55,7 +55,8 @@ defineProps({
 
   &-text {
     flex: 2;
-    width: 390px;
+    //width: 390px;
+    width: 100%;
     display: flex;
     p {
       font-family: var(--font-family);
@@ -72,9 +73,12 @@ defineProps({
     font-size: 14px;
     line-height: 22px;
   }
-  .gpt3__features-container__feature-text p {
-    font-size: 12px;
-    line-height: 20px;
+  .gpt3__features-container__feature-text {
+    max-width: 60vw;
+    p {
+      font-size: 12px;
+      line-height: 20px;
+    }
   }
   .gpt3__features-container__feature {
     margin: 1rem 0;
