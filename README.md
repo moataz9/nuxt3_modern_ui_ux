@@ -1,5 +1,5 @@
 # Nuxt/Vue 3 Modern UI/UX landing page
-[OpenAI UI/UX live App](https://nuxt-3-modern-ui-ux.netlify.app/).
+[OpenAI Clone UI/UX live App](https://nuxt-3-modern-ui-ux.netlify.app/).
 
 ## Setup
 
