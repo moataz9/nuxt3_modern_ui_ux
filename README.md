@@ -1,6 +1,5 @@
-# Nuxt 3 Minimal Starter
-
-Look at the [nuxt 3 documentation](https://v3.nuxtjs.org) to learn more.
+# Nuxt/Vue 3 Modern UI/UX landing page
+[OpenAI UI/UX live App](https://nuxt-3-modern-ui-ux.netlify.app/).
 
 ## Setup
 
